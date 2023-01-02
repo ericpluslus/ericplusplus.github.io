@@ -1,6 +1,9 @@
 title: "Eric's Blog"
 author: "Eric"
 description: "A blog mostly about tech and fitness."
+domain: "ericplusplus.github.io"       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: "https://ericplusplus.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /REPOSITORY-NAME/ 
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
